@@ -18,15 +18,15 @@ def main():
 
     print("Task 2.A")
     print("Finding Median of each target disease pair")
-    #median_for_each_target_disease_pair()
+    median_for_each_target_disease_pair()
 
     print("Task 2.B")
     print("Finding Greatest 3 values of each target disease pair")
-    # find_greatest_3_score()
+    find_greatest_3_score()
 
     print("Task Additional 1")
     print("Finding Median of each target disease pair")
-    # target_target_connection_share()
+    target_target_connection_share()
 
 
 if __name__ == '__main__':
