@@ -25,7 +25,7 @@ def main():
     find_greatest_3_score()
 
     print("Task Additional 1")
-    print("Finding Median of each target disease pair")
+    print("Total count of target-target pairs share a connection to at least two diseases")
     target_target_connection_share()
 
 
